@@ -7,7 +7,7 @@ jdk 'JDK'
 stages {
 stage('Checkout') {
 steps {
-git branch: 'master', url: 'https://github.com/Harshini-Medha/bitmavenapp.git'
+git branch: 'master', url: 'https://github.com/Harshini-Medha/bitmavenappp.git'
 }
 }
 stage('Build') {
